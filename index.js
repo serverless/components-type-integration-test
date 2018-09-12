@@ -2,4 +2,4 @@ const Foo = {
   bar: (instance) => instance
 }
 
-export default Foo
+module.exports = Foo
